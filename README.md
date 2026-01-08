@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Long
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Making+progress+,+not+excuses" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Making+progress+not+excuses" alt="Typing SVG" />
 
 </div>
 
