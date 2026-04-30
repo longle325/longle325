@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a **Junior at University of Information Technology, VNU-HCM** and an **AI Engineer** passionate about building intelligent systems that push the boundaries of what's possible.
+AI Engineer and open-source contributor with strong interests in Large Language Models (LLMs), Edge AI, and agentic LLM systems, focused on building scalable and practical AI solutions.
 
 ## 📊 GitHub Stats
 
